@@ -27,6 +27,8 @@ Perform logistic regression on the training set and generate predictions (pred_l
 Segmentation:
 Use the prediction from the logistic regression model as a new driver and build a decision tree model using only this learner to segment the population. Each leaf node in the tree represents a homogeneous segment.
 
+![Image](https://github.com/drriskquant/Images/blob/e7f8da277f3b85c30bf49a31f327b5f639361936/Tree_segmentation)
+
 CAP Plot:
 Draw the CAP (Cumulative Accuracy Profile) plot for the new model and compare it with the previous model.
 
@@ -36,14 +38,21 @@ Adjust the segmentation based on the number of segments and the accuracy ratio t
 Default Rate Analysis:
 Display the default rate within each segment for both the training and test sets.
 
+![Image](https://github.com/drriskquant/Images/blob/e7f8da277f3b85c30bf49a31f327b5f639361936/Default_Rate_Training_Set)
+![Image](https://github.com/drriskquant/Images/blob/e7f8da277f3b85c30bf49a31f327b5f639361936/Default_Rate_Test_Set)
+
 Comparison:
 Compare the classification results between the training and test sets using CAP plots.
+
+![Image](https://github.com/drriskquant/Images/blob/e7f8da277f3b85c30bf49a31f327b5f639361936/CAP_plot_comparison)
 
 Project 3: Variable Selection
 
 Use Random Forest to evaluate the importance of all predictor variables, using the Gini Index as the importance measure.
 
 Select the top 5 most important variables for further analysis.
+
+![Image](https://github.com/drriskquant/Images/blob/e7f8da277f3b85c30bf49a31f327b5f639361936/Variable_importance)
 
 Project 4: Binning and WOE Transformation
 
