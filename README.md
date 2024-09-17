@@ -2,6 +2,12 @@ Credit Risk Modeling Project
 
 This project involves credit risk modeling using a dataset sourced from Kaggle. The data file is named "credit_risk_dataset.csv," and it contains 32,581 rows with 11 predictor variables and 1 response variable. The entire project is conducted using RStudio.
 
+Tools & Libraries
+
+RStudio
+
+Libraries: ggplot2, randomForest, caret, rpart, etc.
+
 Dataset Source:
 
 Kaggle - Credit Risk Dataset https://www.kaggle.com/datasets/laotse/credit-risk-dataset/data
@@ -74,8 +80,4 @@ Build a logistic regression model using the original response and the newly defi
 
 ![Image](https://github.com/drriskquant/Images/blob/e7f8da277f3b85c30bf49a31f327b5f639361936/CAP_curve_predicted_prob)
 
-Tools & Libraries
 
-RStudio
-
-Libraries: ggplot2, randomForest, caret, rpart, etc.
