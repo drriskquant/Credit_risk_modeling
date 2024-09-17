@@ -59,6 +59,8 @@ Perform Weight of Evidence (WOE) transformation (logit transformation) on each p
 Logistic Regression:
 Build a logistic regression model using the original response and the newly defined drivers based on the WOE transformation.
 
+![Image](https://github.com/drriskquant/Images/blob/e7f8da277f3b85c30bf49a31f327b5f639361936/CAP_curve_predicted_prob)
+
 Tools & Libraries
 
 RStudio
