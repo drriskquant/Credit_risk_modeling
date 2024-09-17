@@ -29,7 +29,6 @@ Use the prediction from the logistic regression model as a new driver and build 
 
 CAP Plot:
 Draw the CAP (Cumulative Accuracy Profile) plot for the new model and compare it with the previous model.
-[Uploading CAP_plot_comparison…]()
 
 Segmentation Adjustment:
 Adjust the segmentation based on the number of segments and the accuracy ratio to balance these factors.
