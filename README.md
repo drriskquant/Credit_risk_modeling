@@ -80,4 +80,4 @@ Build a logistic regression model using the original response and the newly defi
 
 ![Image](https://github.com/drriskquant/Images/blob/e7f8da277f3b85c30bf49a31f327b5f639361936/CAP_curve_predicted_prob)
 
-
+From the results, we conclude that selecting key variables using Random Forest, followed by binning and WOE transformation, and then applying logistic regression, allows us to build an effective PD model, successfully achieving PD segmentation and classification.
