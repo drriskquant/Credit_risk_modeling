@@ -13,6 +13,9 @@ Project 1: Data Analysis
 Conduct graphical analysis for each variable individually and for each pair of (Response, Predictor).
 This analysis helps in understanding the data distribution and identifying potential relationships between predictors and the response.
 
+eg.
+![Image](https://github.com/drriskquant/Images/blob/9c3d948ed9f81bc5fc7f1075ef77fe2a08e1c647/Mean_Loan_Status)
+
 Project 2: PD Segmentation
 
 Data Preprocessing:
