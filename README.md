@@ -44,7 +44,7 @@ Display the default rate within each segment for both the training and test sets
 Comparison:
 Compare the classification results between the training and test sets using CAP plots.
 
-![Image](https://github.com/drriskquant/Images/blob/e7f8da277f3b85c30bf49a31f327b5f639361936/CAP_plot_comparison)
+![Image](https://github.com/drriskquant/Images/blob/21fa1370461f7004dba64101692d3e4ad20616c8/CAP_plot_comparison)
 
 Project 3: Variable Selection
 
